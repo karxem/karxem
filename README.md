@@ -7,7 +7,7 @@
 </h1>
 
 ## About Me ℹ️
-- 💻 I am currently doing my apprenticeship as a Software Developer
+- 💻 I am a fulltime Software Developer
 - 📫 How to reach me **Discord: Karxem**
 - ⚡ Never Nesting is my religion!
 
