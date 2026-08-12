@@ -23,9 +23,9 @@
 
 ## Stats and Tools 🛠️
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=undefinedjosh&theme=transparent&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=karxem&theme=transparent&hide_border=true&border_radius=5&card_width=800">
 </p>
 <p align="center">
-  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=undefinedjosh&hide=contribs,issues&rank_icon=github&theme=transparent"/>
-  <img alt="GitHub Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedjosh&hide_progress=true&theme=transparent" />
+  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=karxem&hide=contribs,issues&rank_icon=github&theme=transparent"/>
+  <img alt="GitHub Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karxem&hide_progress=true&theme=transparent" />
 </p>
